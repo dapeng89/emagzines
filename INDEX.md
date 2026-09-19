@@ -18,6 +18,6 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
-| — | — | — | — |
+| 2026-09-28 | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20260928/20260928-TIME-Magazine.pdf) | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20260928/20260928-TIME-Magazine.epub) | [View](https://github.com/dapeng89/emagzines/releases/tag/tm-20260928) |
 
-_Total issues: 1._
+_Total issues: 2._
