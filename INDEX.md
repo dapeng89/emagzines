@@ -22,7 +22,8 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-10-26 | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20261026/20261026-TIME-Magazine.pdf) | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20261026/20261026-TIME-Magazine.epub) | [View](https://github.com/dapeng89/emagzines/releases/tag/tm-20261026) |
 | 2026-10-12 | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20261012/20261012-TIME-Magazine.pdf) | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20261012/20261012-TIME-Magazine.epub) | [View](https://github.com/dapeng89/emagzines/releases/tag/tm-20261012) |
 | 2026-09-28 | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20260928/20260928-TIME-Magazine.pdf) | [Download](https://github.com/dapeng89/emagzines/releases/download/tm-20260928/20260928-TIME-Magazine.epub) | [View](https://github.com/dapeng89/emagzines/releases/tag/tm-20260928) |
 
-_Total issues: 7._
+_Total issues: 8._
